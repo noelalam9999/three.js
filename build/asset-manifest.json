@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38d045c6.chunk.css",
+    "main.js": "/static/js/main.1e122dc5.chunk.js",
+    "main.js.map": "/static/js/main.1e122dc5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.81b6e4b2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.81b6e4b2.js.map",
+    "static/js/2.24ca2291.chunk.js": "/static/js/2.24ca2291.chunk.js",
+    "static/js/2.24ca2291.chunk.js.map": "/static/js/2.24ca2291.chunk.js.map",
+    "static/js/3.38754b62.chunk.js": "/static/js/3.38754b62.chunk.js",
+    "static/js/3.38754b62.chunk.js.map": "/static/js/3.38754b62.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.38d045c6.chunk.css.map": "/static/css/main.38d045c6.chunk.css.map",
+    "static/js/2.24ca2291.chunk.js.LICENSE.txt": "/static/js/2.24ca2291.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Plaster004_2K_Color.9dd24680.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81b6e4b2.js",
+    "static/js/2.24ca2291.chunk.js",
+    "static/css/main.38d045c6.chunk.css",
+    "static/js/main.1e122dc5.chunk.js"
+  ]
+}
