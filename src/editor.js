@@ -285,10 +285,10 @@ $(document).ready(function () {
                         child.material.transparent = true;
                         var material2 = child.material.clone();
                         child.material = material2;
-                        if (child.parent.parent.name == "furniture") {
-                            child.material.envMapIntensity = 4;
-                        } else
-                            child.material.envMapIntensity = 1.5;
+                        // if (child.parent.parent.name == "furniture") {
+                        //     child.material.envMapIntensity = 4;
+                        // } else
+                        //     child.material.envMapIntensity = 1.5;
                         // MAKE THE WINDOWS TRANSPARENT
                         if (child.material.name == "Material.008" || child.material.name == "Material.016" || child.material.name == "Material.009") {
                             child.material = new THREE.MeshBasicMaterial();
